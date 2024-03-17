@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4c09288031889441840cb2a9c42656c, type: 3}
+  m_Name: BingoData
+  m_EditorClassIdentifier: 
+  prizesConditionSprite:
+  - {fileID: -4135413764847285212, guid: ff0ac9e6b63adec4283ee29b3bbbcc62, type: 3}
+  - {fileID: -3954278176903200296, guid: ff0ac9e6b63adec4283ee29b3bbbcc62, type: 3}
+  - {fileID: -7343473015224704893, guid: ff0ac9e6b63adec4283ee29b3bbbcc62, type: 3}
+  - {fileID: -364225762796381433, guid: ff0ac9e6b63adec4283ee29b3bbbcc62, type: 3}
+  - {fileID: -6991616317960141588, guid: ff0ac9e6b63adec4283ee29b3bbbcc62, type: 3}
+  - {fileID: -2994756639810354051, guid: ff0ac9e6b63adec4283ee29b3bbbcc62, type: 3}
+  prizesConditionSpriteOff:
+  - {fileID: 3426270393924194570, guid: ff0ac9e6b63adec4283ee29b3bbbcc62, type: 3}
+  - {fileID: -7966997101538907884, guid: ff0ac9e6b63adec4283ee29b3bbbcc62, type: 3}
+  - {fileID: -1944988781128875710, guid: ff0ac9e6b63adec4283ee29b3bbbcc62, type: 3}
+  - {fileID: -852487763984371254, guid: ff0ac9e6b63adec4283ee29b3bbbcc62, type: 3}
+  - {fileID: 796464080836764966, guid: ff0ac9e6b63adec4283ee29b3bbbcc62, type: 3}
+  - {fileID: -2298691016226740622, guid: ff0ac9e6b63adec4283ee29b3bbbcc62, type: 3}
+  getSprite: {fileID: -665624594471755332, guid: 72bf2ade62ee1aa438251bd77e604c44, type: 3}
+  dontGetPrize: {fileID: -8621110360289575568, guid: ff0ac9e6b63adec4283ee29b3bbbcc62, type: 3}
+  columnsHeaderSprite:
+  - {fileID: -4953737634170767609, guid: 72bf2ade62ee1aa438251bd77e604c44, type: 3}
+  - {fileID: -1274282514767764263, guid: 72bf2ade62ee1aa438251bd77e604c44, type: 3}
+  - {fileID: -7053387331853195904, guid: 72bf2ade62ee1aa438251bd77e604c44, type: 3}
+  - {fileID: 4418335033974355745, guid: 72bf2ade62ee1aa438251bd77e604c44, type: 3}
+  - {fileID: -6776429133810591927, guid: 72bf2ade62ee1aa438251bd77e604c44, type: 3}
+  avatarsOfWinner:
+  - {fileID: 3903190627477069852, guid: ff0ac9e6b63adec4283ee29b3bbbcc62, type: 3}
+  - {fileID: 3903190627477069852, guid: ff0ac9e6b63adec4283ee29b3bbbcc62, type: 3}
+  - {fileID: 3903190627477069852, guid: ff0ac9e6b63adec4283ee29b3bbbcc62, type: 3}
+  - {fileID: 3903190627477069852, guid: ff0ac9e6b63adec4283ee29b3bbbcc62, type: 3}
+  centerStar: {fileID: 5499845169743373932, guid: 72bf2ade62ee1aa438251bd77e604c44, type: 3}
+  ballSprites:
+  - {fileID: 5149159435181915528, guid: b1592104a6d62b94783632e3891d5a4b, type: 3}
+  - {fileID: 1383148279835111647, guid: b1592104a6d62b94783632e3891d5a4b, type: 3}
+  - {fileID: 5088820329221424418, guid: b1592104a6d62b94783632e3891d5a4b, type: 3}
+  - {fileID: -6363751812917074073, guid: b1592104a6d62b94783632e3891d5a4b, type: 3}
+  - {fileID: -3038129531574705897, guid: b1592104a6d62b94783632e3891d5a4b, type: 3}

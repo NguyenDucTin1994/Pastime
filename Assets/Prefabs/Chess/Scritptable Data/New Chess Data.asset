@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68a1dd9d915134b4eba38daab0954edd, type: 3}
+  m_Name: New Chess Data
+  m_EditorClassIdentifier: 
+  square: {fileID: 21300000, guid: 750f923b0d3c771439036d104625cd6c, type: 3}
+  whitePieceSprite:
+    pawn: {fileID: -8991108760115279050, guid: 71a36967c7c11f04dbc2406018830f10, type: 3}
+    rook: {fileID: -7914632858916290190, guid: 71a36967c7c11f04dbc2406018830f10, type: 3}
+    knight: {fileID: 3454256716073065498, guid: 71a36967c7c11f04dbc2406018830f10, type: 3}
+    bishop: {fileID: -3484790534086306282, guid: 71a36967c7c11f04dbc2406018830f10, type: 3}
+    queen: {fileID: -2319860474580980966, guid: 71a36967c7c11f04dbc2406018830f10, type: 3}
+    king: {fileID: 1530016135518202471, guid: 71a36967c7c11f04dbc2406018830f10, type: 3}
+  blackPieceSprite:
+    pawn: {fileID: -6060267671681875615, guid: 71a36967c7c11f04dbc2406018830f10, type: 3}
+    rook: {fileID: -6000903319850677824, guid: 71a36967c7c11f04dbc2406018830f10, type: 3}
+    knight: {fileID: 1953891630258218983, guid: 71a36967c7c11f04dbc2406018830f10, type: 3}
+    bishop: {fileID: 3519344175979986331, guid: 71a36967c7c11f04dbc2406018830f10, type: 3}
+    queen: {fileID: -1488826320307943029, guid: 71a36967c7c11f04dbc2406018830f10, type: 3}
+    king: {fileID: -8679767028457488223, guid: 71a36967c7c11f04dbc2406018830f10, type: 3}
